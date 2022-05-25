@@ -265,7 +265,7 @@ class Trimmer {
       }
     });
 
-    // return _outputPath;
+     return _outputPath;
   }
 
   /// For getting the video controller state, to know whether the
